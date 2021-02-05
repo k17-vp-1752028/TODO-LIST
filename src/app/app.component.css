@@ -1,0 +1,16 @@
+.nav-link {
+  font-size: large;
+}
+
+a.navbar-brand {
+  font-weight: bold;
+}
+
+div.photo img {
+  max-width: 90%;
+  max-height: 90%;
+}
+
+.card-header {
+  font-weight: bolder;
+}
